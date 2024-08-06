@@ -19,7 +19,7 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           curl -o README.md https://raw.githubusercontent.com/othnielObasi/profile/main/README.md
-          sed -i "s/TOKEN_PLACEHOLDER/${GH_PAT}/g" README.md
+          sed -i "s/TOKEN_PLACEHOLDER/${{ secrets.GH_PAT }}/g" README.md
           git config --global user.email "othnielobasi@gmail.com"
           git config --global user.name "othnielObasi"
           git add README.md
