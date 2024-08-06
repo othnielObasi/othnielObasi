@@ -11,5 +11,5 @@ Here on GitHub you can find interesting projects I did during hackathons as well
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=othnielobasi&count_private=true&show_icons=false&theme=default" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othnielobasi&theme=default&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=othnielObasi&count_private=true&show_icons=false&theme=default" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othnielObasi&theme=default&show_icons=true" />
