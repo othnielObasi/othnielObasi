@@ -11,8 +11,8 @@ I'm an AI research intern at Dugree, focusing on AI for Political Discussion. I 
 ## GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=othnielObasi&count_private=true&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&custom_title=Total%20Commits&include_all_commits=true&hide=prs,issues,contribs&token=TOKEN_PLACEHOLDER" alt="Othniel's GitHub stats" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othnielObasi&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&token=TOKEN_PLACEHOLDER" alt="Top Langs" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=othnielObasi&count_private=true&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&custom_title=Total%20Commits&include_all_commits=true&hide=prs,issues,contribs&token=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" alt="Othniel's GitHub stats" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othnielObasi&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&token=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" alt="Top Langs" style="width: 48%;"/>
 </div>
 
 ## Projects
