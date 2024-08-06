@@ -18,9 +18,9 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          curl -o README.md https://raw.githubusercontent.com/yourusername/yourrepo/main/README-template.md
+          curl -o README.md https://raw.githubusercontent.com/othnielObasi/ReadMe/main/README-template.md
           sed -i "s/TOKEN_PLACEHOLDER/${GH_TOKEN}/g" README.md
-          git config --global user.email "othnielobasi.com"
+          git config --global user.email "othnielobasi@gmail.com"
           git config --global user.name "othnielObasi"
           git add README.md
           git commit -m "Update README with GitHub stats"
