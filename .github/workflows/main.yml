@@ -16,12 +16,51 @@ jobs:
 
       - name: Update README with GitHub Stats
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          curl -o README.md https://raw.githubusercontent.com/othnielObasi/ReadMe/main/README-template.md
-          sed -i "s/TOKEN_PLACEHOLDER/${GH_TOKEN}/g" README.md
-          git config --global user.email "othnielobasi@gmail.com"
+          curl -o README.md https://raw.githubusercontent.com/othnielObasi/profile/main/name: Update README
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Update README with GitHub Stats
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          curl -o README.md https://raw.githubusercontent.com/othnielObasi/profile/main/README.md
+          sed -i "s/TOKEN_PLACEHOLDER/${GH_PAT}/g" README.md
+          git config --global user.email "othnielObasi@gmail.com"
           git config --global user.name "othnielObasi"
           git add README.md
           git commit -m "Update README with GitHub stats"
-          git push
+
+      - name: Push changes
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git remote set-url origin https://othnielObasi:${{ secrets.GH_PAT }}@github.com/othnielObasi/profile.git
+          git push origin main
+
+          sed -i "s/TOKEN_PLACEHOLDER/${GH_PAT}/g" README.md
+          git config --global user.email "othn@gmail.com"
+          git config --global user.name "othnielObasi"
+          git add README.md
+          git commit -m "Update README with GitHub stats"
+
+      - name: Push changes
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git remote set-url origin https://othnielObasi:${{ secrets.GH_PAT }}@github.com/othnielObasi/profile.git
+          git push origin main
