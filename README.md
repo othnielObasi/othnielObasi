@@ -18,6 +18,12 @@
 - **[Project Name](https://github.com/othnielObasi/project-name)**: Brief description of the project.
 - **[Another Project](https://github.com/othnielObasi/another-project)**: Brief description of another project.
 
+## 📈 Research & Certifications:
+- **Explainable AI**: Tools developed with LIME, SHAP, and DiCE.
+- **Certifications**: Neo4j Certified Professional, Generative AI Engineering, Resilient Leadership (Harvard University).
+
+
+
 ## Jupyter Notebooks
 
 Most of my projects include Jupyter notebooks primarily written in Python. These notebooks cover various aspects of AI and data science, showcasing my work and experiments in a reproducible format.
