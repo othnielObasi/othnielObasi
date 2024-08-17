@@ -10,20 +10,6 @@
 
 ## GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-  <img src="https://github-readme-stats.vercel.app/api?username=othnielObasi&count_private=true&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&custom_title=GitHub%20Stats&include_all_commits=true&hide=stars,prs,issues,contribs&token=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" alt="GitHub stats" style="width: 50%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othnielObasi&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&custom_title=Top%20Languages&token=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" alt="Top Languages" style="width: 50%; margin-top: -50px;"/>
-</div>
-
-## GitHub Stats
-
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=othnielObasi&count_private=true&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&custom_title=GitHub%20Stats&include_all_commits=true&hide=stars,prs,issues,contribs&token=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" alt="GitHub stats" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othnielObasi&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&custom_title=Top%20Languages&token=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" alt="Top Languages" style="width: 48%;"/>
-</div>
-
-## GitHub Stats
-
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=othnielObasi&count_private=true&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&custom_title=GitHub%20Stats&include_all_commits=true&hide=stars,prs,issues,contribs&token=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" alt="GitHub stats" style="width: 48%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othnielObasi&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&custom_title=Top%20Languages&token=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" alt="Top Languages" style="width: 48%;"/>
