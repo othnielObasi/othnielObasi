@@ -25,7 +25,7 @@
 - **[Airbnb UK Data Analysis](#)**: Implemented a tool to analyze Airbnb UK listings, focusing on market trends and pricing. Tools:*<mark>Python, pandas, Matplotlib</mark>*
 ## 📈 Research & Certifications:
 - **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency and trustworthiness.
-- **Certifications**: Neo4j Certified Professional, Neo4J Graph Data Science Certification, Generative AI Engineering.
+- **Certifications**: **[Neo4j Certified Professional](https://graphacademy.neo4j.com/c/3a8b7eb8-c679-4af4-a744-93e17caafe5e/)**, Neo4J Graph Data Science Certification, Generative AI Engineering.
 
 
 ## 👥 Let's Connect:
