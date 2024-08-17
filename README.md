@@ -1,4 +1,4 @@
-  # Othniel Obasi
+
 
 🌍 Based in London, UK | ✉️ [Email](mailto:othnielobasi@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/othnielobasi/)
 
