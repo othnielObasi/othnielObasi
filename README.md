@@ -24,7 +24,7 @@
 - **[CookGenie Chatbot](#)**: Designed a personalized cooking assistant chatbot using NLP techniques. Integrated OpenAI's API for interactive recipe suggestions, shopping lists, and cooking advice, enhancing user engagement.  Tools: <mark>Python, NLP, OpenAI API</mark>
 - **[Airbnb UK Data Analysis](#)**: Implemented a tool to analyze Airbnb UK listings, focusing on market trends and pricing. Tools:*<mark>Python, pandas, Matplotlib</mark>*
 ## 📈 Research & Certifications:
-- **Explainable AI**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency and trustworthiness.
+- **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency and trustworthiness.
 - **Certifications**: Neo4j Certified Professional, Neo4J Graph Data Science Certification, Generative AI Engineering.
 
 
