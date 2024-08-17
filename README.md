@@ -5,8 +5,8 @@
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/othnielobasi)
 
 ## About Me
+👋 Hi, I'm Neil, an AI and Data Science professional with over 10 years of experience in developing and managing innovative AI/ML products. My work spans various domains, including fintech, utilities, and consulting, with a focus on creating scalable, impactful solutions.
 
-I'm an AI research intern at Dugree, focusing on AI for Political Discussion. I have authored several research papers and book chapters indexed in Scopus. On GitHub, you can find interesting projects I have worked on during hackathons, as well as open source software developed in my spare time.
 
 ## GitHub Stats
 
