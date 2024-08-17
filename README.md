@@ -17,6 +17,41 @@
 
 - **[Project Name](https://github.com/othnielObasi/project-name)**: Brief description of the project.
 - **[Another Project](https://github.com/othnielObasi/another-project)**: Brief description of another project.
+- 
+## 🚀 Key Projects:
+- **[Neural Search]**: Developed a neural search engine using SentenceTransformer to encode product data into dense vectors for high-accuracy retrieval.Optimized search performance with vector databases and advanced NLP techniques.
+Tools *Python, NLP, SentenceTransformer, Vector Database*
+- **[Conversational AI with Knowledge Graph]**: Developed a conversational AI integrated with a knowledge graph for precise product queries utilizing *Python, GPT, Langchain, RAG, Neo4j*
+- **[AI Customer Review Classifier]**: Engineered a review classification system leveraging Word2Vec for vectorization and BERT for sentiment analysis. Integrated Google Search API to enhance topic inference and automated summarization, providing actionable insights from customer feedback. Tools:  *Python, Word2Vec, LDA, SpaCy, NLTK, BERT, Google Search API*
+
+
+
+
+### 4. [CraftWise Writing Assistant](#)
+**Python, OpenAI API**
+
+Built an AI writing assistant with customizable suggestions based on audience and intent.
+
+### 5. [Intelligent Coin Trading Platform](#)
+**Python, TensorFlow**
+
+Engineered a platform for cryptocurrency trading, achieving high accuracy with RNN models.
+
+### 6. [COVID-19 Vaccination Trend Analysis](#)
+**Python, XGBoost**
+
+Conducted a trend analysis and developed predictive models for global COVID-19 vaccination data.
+
+### 7. [CookGenie Chatbot](#)
+**Python, NLP**
+
+Developed an AI chatbot for personalized cooking assistance and recipe recommendations.
+
+### 8. [Airbnb UK Data Analysis](#)
+**Python, pandas**
+
+Implemented a tool to analyze Airbnb UK listings, focusing on market trends and pricing.
+
 
 ## 📈 Research & Certifications:
 - **Explainable AI**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency and trustworthiness.
