@@ -23,13 +23,7 @@
 - **Certifications**: Neo4j Certified Professional, Neo4J Graph Data Science Certification, Generative AI Engineering.
 
 
+## 👥 Let's Connect:
+- 💼 Open to collaborations on AI/ML projects and consulting opportunities.
+- 📧 Contact me via [email](mailto:othnielobasi@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/othnielobasi).
 
-## Jupyter Notebooks
-
-Most of my projects include Jupyter notebooks primarily written in Python. These notebooks cover various aspects of AI and data science, showcasing my work and experiments in a reproducible format.
-
-## Publications
-
----
-
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/othnielobasi/) or [Twitter](https://twitter.com/othnielobasi).
