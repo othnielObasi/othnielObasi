@@ -3,7 +3,7 @@
 🌍 Based in London, UK | ✉️ [othnielobasi@gmail.com](mailto:othnielobasi@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/othnielobasi/)
 
 ## About Me
-👋Hi there! I'm Neil, and I’ve been diving into AI and Data Science, working on some pretty cool AI/ML products across fintech, utilities, and consulting. My focus is all about building solutions that really make a difference and can scale with ease.
+👋Hi there! I'm Othniel, and I’ve been diving into AI and Data Science, working on some pretty cool AI/ML products across fintech, utilities, and consulting. My focus is all about building solutions that really make a difference and can scale with ease.
 
 
 ## GitHub Stats
