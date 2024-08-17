@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/othnielobasi)
 
 ## About Me
-👋 Hi, I'm Neil, an AI and Data Science professional with over 10 years of experience in developing and managing innovative AI/ML products. My work spans various domains, including fintech, utilities, and consulting, with a focus on creating scalable, impactful solutions.
+👋Hi there! I'm Neil, and I’ve been diving into AI and Data Science, working on some pretty cool AI/ML products across fintech, utilities, and consulting. My focus is all about building solutions that really make a difference and can scale with ease.
 
 
 ## GitHub Stats
