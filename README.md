@@ -19,8 +19,8 @@
 - **[Another Project](https://github.com/othnielObasi/another-project)**: Brief description of another project.
 
 ## 📈 Research & Certifications:
-- **Explainable AI**: Tools developed with LIME, SHAP, and DiCE.
-- **Certifications**: Neo4j Certified Professional, Generative AI Engineering, Resilient Leadership (Harvard University).
+- **Explainable AI**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency and trustworthiness.
+- **Certifications**: Neo4j Certified Professional, Neo4J Graph Data Science Certification, Generative AI Engineering.
 
 
 
