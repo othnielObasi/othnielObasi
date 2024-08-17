@@ -22,26 +22,11 @@
 - **[Neural Search](#)**(: Developed a neural search engine using SentenceTransformer to encode product data into dense vectors for high-accuracy retrieval. Optimized search performance with vector databases and advanced NLP techniques. <b>Tools</b>: *<mark>Python, NLP, SentenceTransformer, Vector Database</maek>*
 - **[Conversational AI with Knowledge Graph](#)**: Developed a conversational AI integrated with a knowledge graph for precise product queries utilizing *<mark>Python, GPT, Langchain, RAG, Neo4j</mark>*
 - **[AI Customer Review Classifier](#)**: Engineered a review classification system leveraging Word2Vec for vectorization and BERT for sentiment analysis. Integrated Google Search API to enhance topic inference and automated summarization, providing actionable insights from customer feedback. Tools:  *<mark>Python, Word2Vec, LDA, SpaCy, NLTK, BERT, Google Search API</mark>*
+- **[CraftWise Writing Assistant](#)**: Created a customizable writing assistant using GPT for real-time content generation. Designed a user-friendly interface with Gradio, enabling dynamic and context-specific writing suggestions. Tools:  *<mark>Python, OpenAI API, GradioI</mark>*
+-**[Intelligent Coin Trading Platform](#)**: Developed a cryptocurrency trading platform with GRU, LSTM, and BiLSTM models for price prediction. Integrated real-time market data via the CoinMarketCap API, achieving high predictive accuracy for strategic trading.  Tools:*<mark>*Python, TensorFlow, RNN, CoinMarketCap API</mark>*
+- **[COVID-19 Vaccination Trend Analysis](#)**: Conducted a global vaccination trend analysis, automating data pipelines with CRON jobs and forecasting trends with XGBoost. Developed visualizations to assist in understanding vaccination impacts on a global scale. Tools:*<mark>*Python, TensorFlow, RNN, CoinMarketCap API</mark>*
+- **[CookGenie Chatbot](#)**: Designed a personalized cooking assistant chatbot using NLP techniques. Integrated OpenAI's API for interactive recipe suggestions, shopping lists, and cooking advice, enhancing user engagement.  Tools: *<mark>*Python, NLP, OpenAI API</mark>
 
-
-
-
-### 4. [CraftWise Writing Assistant](#)
-**Python, OpenAI API**
-
-Built an AI writing assistant with customizable suggestions based on audience and intent.
-
-### 5. [Intelligent Coin Trading Platform](#)
-**Python, TensorFlow**
-
-Engineered a platform for cryptocurrency trading, achieving high accuracy with RNN models.
-
-### 6. [COVID-19 Vaccination Trend Analysis](#)
-**Python, XGBoost**
-
-Conducted a trend analysis and developed predictive models for global COVID-19 vaccination data.
-
-### 7. [CookGenie Chatbot](#)
 **Python, NLP**
 
 Developed an AI chatbot for personalized cooking assistance and recipe recommendations.
