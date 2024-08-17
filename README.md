@@ -19,7 +19,7 @@
 - **[Another Project](https://github.com/othnielObasi/another-project)**: Brief description of another project.
 - 
 ## 🚀 Key Projects:
-- **<h3>[Neural Search]</h3>(#)**: Developed a neural search engine using SentenceTransformer to encode product data into dense vectors for high-accuracy retrieval. Optimized search performance with vector databases and advanced NLP techniques. <b>Tools</b>: **[<em>Python, NLP, SentenceTransformer, Vector Database</em>](#)**
+- <h3>**[Neural Search]#)**</h3>(: Developed a neural search engine using SentenceTransformer to encode product data into dense vectors for high-accuracy retrieval. Optimized search performance with vector databases and advanced NLP techniques. <b>Tools</b>: **[<em>Python, NLP, SentenceTransformer, Vector Database</em>](#)**
 - **[Conversational AI with Knowledge Graph]**: Developed a conversational AI integrated with a knowledge graph for precise product queries utilizing *Python, GPT, Langchain, RAG, Neo4j*
 - **[AI Customer Review Classifier]**: Engineered a review classification system leveraging Word2Vec for vectorization and BERT for sentiment analysis. Integrated Google Search API to enhance topic inference and automated summarization, providing actionable insights from customer feedback. Tools:  *Python, Word2Vec, LDA, SpaCy, NLTK, BERT, Google Search API*
 
