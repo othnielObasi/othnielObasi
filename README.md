@@ -22,7 +22,7 @@
 - **[Airbnb UK Data Analysis](#)**: Implemented a tool to analyze Airbnb UK listings, focusing on market trends and pricing. Tools:*<mark>Python, pandas, Matplotlib</mark>*
 
 ## 📈 Research & Certifications:
-- **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency and trustworthiness.
+- **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency and trustworthiness; Created **prototype[https://huggingface.co/spaces/Othniel74/Fraudsense-v1]** to demonstrate its practical applications. 
 - **Certifications**: [Neo4j Certified Professional](https://graphacademy.neo4j.com/c/3a8b7eb8-c679-4af4-a744-93e17caafe5e/), [Neo4J Graph Data Science Certification](https://graphacademy.neo4j.com/c/8e8406bf-08cb-47da-84f1-f0aedcd7d7e3/), Generative AI Engineering.
 
 
