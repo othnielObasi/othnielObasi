@@ -21,7 +21,7 @@
 ## 🚀 Key Projects:
 - **[Neural Search](#)**(: Developed a neural search engine using SentenceTransformer to encode product data into dense vectors for high-accuracy retrieval. Optimized search performance with vector databases and advanced NLP techniques. <b>Tools</b>: <em>Python, NLP, SentenceTransformer, Vector Database</em>
 - **[Conversational AI with Knowledge Graph](#)**: Developed a conversational AI integrated with a knowledge graph for precise product queries utilizing **<em>Python, GPT, Langchain, RAG, Neo4j</em>**
-- **[AI Customer Review Classifier](#)**: Engineered a review classification system leveraging Word2Vec for vectorization and BERT for sentiment analysis. Integrated Google Search API to enhance topic inference and automated summarization, providing actionable insights from customer feedback. Tools:  **[<em>Python, Word2Vec, LDA, SpaCy, NLTK, BERT, Google Search API</em>](#)**
+- **[AI Customer Review Classifier](#)**: Engineered a review classification system leveraging Word2Vec for vectorization and BERT for sentiment analysis. Integrated Google Search API to enhance topic inference and automated summarization, providing actionable insights from customer feedback. Tools:  *<mark>Python, Word2Vec, LDA, SpaCy, NLTK, BERT, Google Search API</mark>
 
 
 
