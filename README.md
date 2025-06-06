@@ -28,5 +28,5 @@
 
 ## 👥 Let's Connect:
 - 💼 Open to collaborations on AI/ML projects and consulting opportunities.
-- 📧 Contact me via [email](mailto:othnielobasi@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/othnielobasi).
+- 📧 Contact me via [email](mailto:othnielobasi@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/).
 
