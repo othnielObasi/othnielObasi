@@ -11,7 +11,7 @@
 - **[Conversational AI with Knowledge Graph](#)**: Developed a conversational AI integrated with a knowledge graph for precise product queries utilizing *<mark>Python, GPT, Langchain, RAG, Neo4j</mark>*
 
 - **[AI Customer Review Classifier](#)**: Engineered a review classification system leveraging Word2Vec for vectorization and BERT for sentiment analysis. Integrated Google Search API to enhance topic inference and automated summarization, providing actionable insights from customer feedback. Tools:  *<mark>Python, Word2Vec, LDA, SpaCy, NLTK, BERT, Google Search API</mark>*
-- **[CraftWise Writing Assistant](#)**: Created a customizable writing assistant using GPT for real-time content generation. Designed a user-friendly interface with Gradio, enabling dynamic and context-specific writing suggestions. Tools:  *<mark>Python, OpenAI API, GradioI</mark>*
+- **[CraftWise Writing Assistant](https://craftwise-v1.streamlit.app/)**: Created a customizable writing assistant using GPT for real-time content generation. Designed a user-friendly interface with Gradio, enabling dynamic and context-specific writing suggestions. Tools:  *<mark>Python, OpenAI API, GradioI</mark>*
 
 - **[Intelligent Coin Trading Platform](#)**: Developed a cryptocurrency trading platform with GRU, LSTM, and BiLSTM models for price prediction. Integrated real-time market data via the CoinMarketCap API, achieving high predictive accuracy for strategic trading.  Tools:*<mark>Python, TensorFlow, RNN, CoinMarketCap API</mark>*
 
