@@ -6,6 +6,8 @@
 </div>
 
 ## 🚀 Key Projects:
+- **[Model Optimization Pipeline – Distillation, Quantization & Deploymenth](https://pytorch-mnist-classifier.streamlit.app/)**: Trained and distilled CNN on MNIST, exported to TorchScript, and achieved >98% accuracy post-quantization.Built FastAPI backend + Streamlit UI (canvas) for real-time inference; logged predictions to Supabase.Containerized via Docker, deployed with GCP Cloud Run; tracked performance using MLflow and W&B.. <b>Tools</b>: *<mark>Streamlit, FastAPI, TorchScript, Supabase, Docker, GCP, MLflow, Weights & Biases</maek>*
+
 - **[Neural Search](#)**: Developed a neural search engine using SentenceTransformer to encode product data into dense vectors for high-accuracy retrieval. Optimized search performance with vector databases and advanced NLP techniques. <b>Tools</b>: *<mark>Python, NLP, SentenceTransformer, Vector Database</maek>*
 
 - **[Conversational AI with Knowledge Graph](#)**: Developed a conversational AI integrated with a knowledge graph for precise product queries utilizing *<mark>Python, GPT, Langchain, RAG, Neo4j</mark>*
