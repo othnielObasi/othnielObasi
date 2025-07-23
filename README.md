@@ -1,38 +1,45 @@
 ## About Me
 
 <p>👋I build transparent, scalable AI systems—specializing in model optimization (distillation & quantization), custom tokenization for domain adaptation, and knowledge‑graph–powered reasoning. I also resize model embeddings to align with bespoke vocabularies and fine‑tune lightweight LLMs for specialized domains.</p>
-<b>
-
+<b></b>
 </div>
 
 ## 🚀 Key Projects:
 
-- **[Domain‑Adapted Tokenizer & TinyLLaMA v1 QLoRA Fine‑Tuning – Tokenizer Training, Embedding Resize, 4‑bit QLoRA & PEFT](/)**: Trained a BPE tokenizer from scratch and tokenized a 500 M‑token biomedical corpus; loaded TinyLLaMA v1 with 4‑bit QLoRA (nf4 quant, double quantization, float16 compute); resized the model’s embedding matrix to match the new vocabulary; applied PEFT adapters (r=8, α=16, dropout=0.1) on q_proj/v_proj; fine‑tuned on domain data—achieving a 12% drop in perplexity and a 15% F1 boost. Tools. <b>Tools</b>: *<mark>Python, Hugging Face Transformers, Tokenizers, BitsAndBytes, PEFT, PyTorch.</maek>*
-  
-- **[Model Optimization Pipeline – Distillation, Quantization & Deploymenth](https://pytorch-mnist-classifier.streamlit.app/)**: Trained and distilled CNN on Digit-Recognition, exported to TorchScript, and achieved >98% accuracy post-quantization.Built FastAPI backend + Streamlit UI (canvas) for real-time inference; logged predictions to Supabase.Containerized via Docker, deployed with GCP Cloud Run; tracked performance using MLflow and W&B.. <b>Tools</b>: *<mark>Streamlit, FastAPI, TorchScript, Supabase, Docker, GCP, MLflow, Weights & Biases</maek>*
+- **[Domain‑Adapted Tokenizer & TinyLLaMA v1 QLoRA Fine‑Tuning – Tokenizer Training, Embedding Resize & QLoRA Fine‑Tuning](/)**: Trained a BPE tokenizer on a 500 M‑token biomedical corpus; resized TinyLLaMA v1’s embedding matrix to fit the new vocabulary; applied 4‑bit QLoRA and PEFT adapters; fine‑tuned for domain QA—achieving a 12% drop in perplexity and a 15% F1 lift.  
+  **Tools:** *Python, Hugging Face Transformers, Tokenizers, BitsAndBytes, PEFT, PyTorch*
 
-- **[CraftWise Writing Assistant](https://craftwise-v1.streamlit.app/)**: Created a customizable writing assistant using GPT for real-time content generation. Designed a user-friendly interface with Gradio, enabling dynamic and context-specific writing suggestions. Tools:  *<mark>Python, OpenAI API, GradioI</mark>*
+- **[Model Optimization Pipeline – Distillation, Quantization & Deployment](https://pytorch-mnist-classifier.streamlit.app/)**: Trained and distilled a CNN for digit recognition; exported to TorchScript and achieved >98% accuracy post‑quantization; built a FastAPI backend and Streamlit UI for real‑time inference with Supabase logging; containerized with Docker and deployed on GCP Cloud Run; tracked performance with MLflow and W&B.  
+  **Tools:** *TorchScript, Distillation, Quantization, FastAPI, Streamlit, Supabase, Docker, GCP, MLflow, Weights & Biases*
 
-- **[Neural Search](#)**: Developed a neural search engine using SentenceTransformer to encode product data into dense vectors for high-accuracy retrieval. Optimized search performance with vector databases and advanced NLP techniques. <b>Tools</b>: *<mark>Python, NLP, SentenceTransformer, Vector Database</maek>*
+- **[CraftWise Writing Assistant](https://craftwise-v1.streamlit.app/)**: Created a GPT‑powered writing assistant with a Gradio interface for dynamic, context‑aware content generation—improving user engagement.  
+  **Tools:** *Python, OpenAI API, Gradio*
 
-- **[Conversational AI with Knowledge Graph](#)**: Developed a conversational AI integrated with a knowledge graph for precise product queries utilizing *<mark>Python, GPT, Langchain, RAG, Neo4j</mark>*
+- **[Neural Search](#)**: Developed a neural search engine using SentenceTransformer embeddings and a vector database—delivering high‑accuracy product retrieval.  
+  **Tools:** *Python, NLP, SentenceTransformer, Vector Database*
 
-- **[AI Customer Review Classifier](#)**: Engineered a review classification system leveraging Word2Vec for vectorization and BERT for sentiment analysis. Integrated Google Search API to enhance topic inference and automated summarization, providing actionable insights from customer feedback. Tools:  *<mark>Python, Word2Vec, LDA, SpaCy, NLTK, BERT, Google Search API</mark>*
+- **[Conversational AI with Knowledge Graph](#)**: Built a chatbot combining GPT, LangChain RAG, and Neo4j to answer precise product queries—enhancing customer support.  
+  **Tools:** *Python, GPT, LangChain, RAG, Neo4j*
 
-- **[Intelligent Coin Trading Platform](#)**: Developed a cryptocurrency trading platform with GRU, LSTM, and BiLSTM models for price prediction. Integrated real-time market data via the CoinMarketCap API, achieving high predictive accuracy for strategic trading.  Tools:*<mark>Python, TensorFlow, RNN, CoinMarketCap API</mark>*
+- **[AI Customer Review Classifier](#)**: Engineered a pipeline using Word2Vec and BERT to classify reviews; integrated Google Search API for topic inference and automated summarization—providing actionable insights.  
+  **Tools:** *Python, Word2Vec, LDA, SpaCy, NLTK, BERT, Google Search API*
 
-- **[COVID-19 Vaccination Trend Analysis](#)**: Conducted a global vaccination trend analysis, automating data pipelines with CRON jobs and forecasting trends with XGBoost. Developed visualizations to assist in understanding vaccination impacts on a global scale. Tools:*<mark>Python, TensorFlow, RNN, CoinMarketCap API</mark>*
+- **[Intelligent Coin Trading Platform](#)**: Developed a crypto‑trading system with GRU, LSTM, and BiLSTM models; integrated real‑time CoinMarketCap data—achieving high predictive accuracy.  
+  **Tools:** *Python, TensorFlow, RNN, CoinMarketCap API*
 
-- **[CookGenie Chatbot](#)**: Designed a personalized cooking assistant chatbot using NLP techniques. Integrated OpenAI's API for interactive recipe suggestions, shopping lists, and cooking advice, enhancing user engagement.  Tools: <mark>Python, NLP, OpenAI API</mark>
+- **[COVID‑19 Vaccination Trend Analysis](#)**: Automated data pipelines with cron jobs and forecasted global vaccination trends using XGBoost; delivered interactive visualizations for decision‑makers.  
+  **Tools:** *Python, pandas, Matplotlib, XGBoost*
 
-- **[Airbnb UK Data Analysis](#)**: Implemented a tool to analyze Airbnb UK listings, focusing on market trends and pricing. Tools:*<mark>Python, pandas, Matplotlib</mark>*
+- **[CookGenie Chatbot](#)**: Designed a cooking assistant using NLP and OpenAI’s API for personalized recipes, shopping lists, and cooking advice—boosting user retention.  
+  **Tools:** *Python, NLP, OpenAI API*
+
+- **[Airbnb UK Data Analysis](#)**: Analyzed UK Airbnb listings to surface market trends and pricing insights—guiding rental strategies.  
+  **Tools:** *Python, pandas, Matplotlib*
 
 ## 📈 Research & Certifications:
-- **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency and trustworthiness; Created the XAI [prototype](https://huggingface.co/spaces/Othniel74/Fraudsense-v1) to demonstrate its practical applications. 
-- **Certifications**: [Neo4j Certified Professional](https://graphacademy.neo4j.com/c/3a8b7eb8-c679-4af4-a744-93e17caafe5e/), [Neo4J Graph Data Science Certification](https://graphacademy.neo4j.com/c/8e8406bf-08cb-47da-84f1-f0aedcd7d7e3/), Generative AI Engineering.
-
+- **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency; demoed an XAI [prototype](https://huggingface.co/spaces/Othniel74/Fraudsense-v1).  
+- **Certifications:** Neo4j Certified Professional; Neo4j Graph Data Science; Generative AI Engineering.
 
 ## 👥 Let's Connect:
-- 💼 Open to collaborations on AI/ML projects and consulting opportunities.
-- 📧 Contact me via [email](mailto:othnielobasi@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/othnieobasi). [CV](mailto:othnielobasi@gmail.com)
-
+- 💼 Open to AI/ML collaborations and consulting opportunities.  
+- 📧 Contact via [email](mailto:othnielobasi@gmail.com) or [LinkedIn](https://www.linkedin.com/in/othnieobasi). [CV](mailto:othnielobasi@gmail.com)
