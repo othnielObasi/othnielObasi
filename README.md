@@ -1,6 +1,6 @@
 ## About Me
 
-<p>👋Hi there! I'm Othniel, and I’ve been diving into AI and Data Science, working on some pretty cool AI/ML projects. My focus is all about building scalable solutions that make a real impact. I've been particularly interested in Explainable AI, ensuring that the models I create are transparent and understandable. I'm also exploring the power of Knowledge Graphs to enhance data relationships and drive smarter decision-making in AI systems.</p>
+<p>👋HI build transparent, scalable AI systems—specializing in model optimization (distillation & quantization), custom tokenization for domain adaptation, and knowledge‑graph–powered reasoning. I also resize model embeddings to align with bespoke vocabularies and fine‑tune lightweight LLMs for specialized domains.</p>
 <b>
 
 </div>
