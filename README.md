@@ -1,6 +1,6 @@
 ## About Me
 
-<p>👋HI build transparent, scalable AI systems—specializing in model optimization (distillation & quantization), custom tokenization for domain adaptation, and knowledge‑graph–powered reasoning. I also resize model embeddings to align with bespoke vocabularies and fine‑tune lightweight LLMs for specialized domains.</p>
+<p>👋I build transparent, scalable AI systems—specializing in model optimization (distillation & quantization), custom tokenization for domain adaptation, and knowledge‑graph–powered reasoning. I also resize model embeddings to align with bespoke vocabularies and fine‑tune lightweight LLMs for specialized domains.</p>
 <b>
 
 </div>
