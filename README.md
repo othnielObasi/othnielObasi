@@ -6,6 +6,9 @@
 </div>
 
 ## 🚀 Key Projects:
+
+- **[Domain‑Adapted Tokenizer & TinyLLaMA v1 QLoRA Fine‑Tuning – Tokenizer Training, Embedding Resize, 4‑bit QLoRA & PEFT](/)**: : Trained a BPE tokenizer from scratch and tokenized a 500 M‑token biomedical corpus; loaded TinyLLaMA v1 with 4‑bit QLoRA (nf4 quant, double quantization, float16 compute); resized the model’s embedding matrix to match the new vocabulary; applied PEFT adapters (r=8, α=16, dropout=0.1) on q_proj/v_proj; fine‑tuned on domain data—achieving a 12% drop in perplexity and a 15% F1 boost. Tools. <b>Tools</b>: *<mark>Python, Hugging Face Transformers, Tokenizers, BitsAndBytes, PEFT, PyTorch.</maek>*
+  
 - **[Model Optimization Pipeline – Distillation, Quantization & Deploymenth](https://pytorch-mnist-classifier.streamlit.app/)**: Trained and distilled CNN on Digit-Recognition, exported to TorchScript, and achieved >98% accuracy post-quantization.Built FastAPI backend + Streamlit UI (canvas) for real-time inference; logged predictions to Supabase.Containerized via Docker, deployed with GCP Cloud Run; tracked performance using MLflow and W&B.. <b>Tools</b>: *<mark>Streamlit, FastAPI, TorchScript, Supabase, Docker, GCP, MLflow, Weights & Biases</maek>*
 
 - **[CraftWise Writing Assistant](https://craftwise-v1.streamlit.app/)**: Created a customizable writing assistant using GPT for real-time content generation. Designed a user-friendly interface with Gradio, enabling dynamic and context-specific writing suggestions. Tools:  *<mark>Python, OpenAI API, GradioI</mark>*
