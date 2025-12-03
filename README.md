@@ -1,56 +1,3 @@
-## 🛠️ Tech Stack
-
-**Core**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FF6F00?logo=huggingface&logoColor=white)
-
-**APIs & Deployment**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
-
-**MLOps & AI Tools**
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2)
-![Weights&Biases](https://img.shields.io/badge/-Weights_&_Biases-FFBE00)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-00A67E)
-
-**Data**
-![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
-**Languages GitHub Detects in My Repos:**
-![Python](https://img.shields.io/badge/Python-100%25-3776AB?logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-
-**Real GitHub Stats:**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=othnielObasi&layout=compact&theme=dark&hide_border=true)
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Stats Card -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=othnielObasi&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" alt="GitHub Stats" />
-  
-  <!-- Top Languages -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othnielObasi&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=othnielObasi&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</p>
-
-## 🎯 Recent Activity
-<!-- GitHub Readme Activity Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=othnielObasi&theme=github-dark&hide_border=true&area=true)
 
 ## About Me
 
@@ -68,6 +15,47 @@
 
 - **[CraftWise Writing Assistant](https://craftwise-v1.streamlit.app/)**: Created a GPT‑powered writing assistant with a Gradio interface for dynamic, context‑aware content generation—improving user engagement.  
   **Tools:** *Python, OpenAI API, Gradio*
+
+  ## 🛠️ Tech Stack
+
+**Core**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+
+**APIs & Deployment**  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
+
+**MLOps & AI Tools**  
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)
+![Weights&Biases](https://img.shields.io/badge/-Weights_&_Biases-FFBE00?logo=weightsandbiases&logoColor=black)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white)
+
+**Data & Tools**  
+![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=othnielObasi&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othnielObasi&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=othnielObasi&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</p>
+
+## 🎯 Recent Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=othnielObasi&theme=github-dark&hide_border=true&area=true)
 
 - **[Neural Search](#)**: Developed a neural search engine using SentenceTransformer embeddings and a vector database—delivering high‑accuracy product retrieval.  
   **Tools:** *Python, NLP, SentenceTransformer, Vector Database*
