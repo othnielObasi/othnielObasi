@@ -82,6 +82,3 @@
   <img src="https://streak-stats.demolab.com?user=othnielObasi&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </p>
 
-## 🎯 Recent Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=othnielObasi&theme=github-dark&hide_border=true&area=true)
