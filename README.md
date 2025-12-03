@@ -60,11 +60,6 @@
 - **[Airbnb UK Data Analysis](#)**: Analyzed UK Airbnb listings to surface market trends and pricing insights—guiding rental strategies.  
   **Tools:** *Python, pandas, Matplotlib*
 
-## 📈 Research:
-- **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency; demoed an XAI [prototype](https://huggingface.co/spaces/Othniel74/Fraudsense-v1).
-- **Sovereign AI Governance** — Independent work exploring advanced paradigms for safe, autonomous, policy-aligned AI orchestration.
-- **Autonomous AI Security Systems** — Investigating next-generation adversarial evaluation frameworks for continuous AI robustness and resilience.
-
 ## 🏆 Certifications & Training:
 
 - Neo4j Certified Professional  & Neo4j Graph Data Science — Neo4j
@@ -73,6 +68,12 @@
 - Red Teaming LLM Applications — Giskard AI & DL
 - Quality & Safety for LLM Applications — WhyLabs & DL
 - OpenTelemetry Observability Lab — Linux Foundation
+
+## 📈 Research:
+- **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency; demoed an XAI [prototype](https://huggingface.co/spaces/Othniel74/Fraudsense-v1).
+- **Sovereign AI Governance** — Independent work exploring advanced paradigms for safe, autonomous, policy-aligned AI orchestration.
+- **Autonomous AI Security Systems** — Investigating next-generation adversarial evaluation frameworks for continuous AI robustness and resilience.
+
 
 ## 👥 Let's Connect:
 - 💼 Open to AI/ML collaborations and consulting opportunities.  
