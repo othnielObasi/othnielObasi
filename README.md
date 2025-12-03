@@ -65,12 +65,19 @@
 - **Certifications:** Neo4j Certified Professional; Neo4j Graph Data Science; Generative AI Engineering.
 - ## 🏆 Certifications
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="27ab2975-dff2-44b9-b43d-cdf3d33685a4" data-share-badge-host="https://www.credly.com"></div>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="27ab2975-dff2-44b9-b43d-cdf3d33685a4" data-share-badge-host="https://www.credly.com"></div>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f5cb1a83-d938-4121-864b-69a79f1745f5" data-share-badge-host="https://www.credly.com"></div>
-</div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+## 🏆 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/27ab2975-dff2-44b9-b43d-cdf3d33685a4">
+    <img src="https://images.credly.com/size/340x340/images/BADGE_IMAGE_ID/badge.png" width="150" alt="Certification 1"/>
+  </a>
+  <a href="https://www.credly.com/badges/27ab2975-dff2-44b9-b43d-cdf3d33685a4">
+    <img src="https://images.credly.com/size/340x340/images/BADGE_IMAGE_ID/badge.png" width="150" alt="Certification 2"/>
+  </a>
+  <a href="https://www.credly.com/badges/f5cb1a83-d938-4121-864b-69a79f1745f5">
+    <img src="https://images.credly.com/size/340x340/images/BADGE_IMAGE_ID/badge.png" width="150" alt="Certification 3"/>
+  </a>
+</p>
 
 ## 👥 Let's Connect:
 - 💼 Open to AI/ML collaborations and consulting opportunities.  
