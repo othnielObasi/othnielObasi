@@ -69,13 +69,13 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/27ab2975-dff2-44b9-b43d-cdf3d33685a4">
-    <img src="https://images.credly.com/size/340x340/images/BADGE_IMAGE_ID/badge.png" width="150" alt="Certification 1"/>
+    <img src="./img/img1.png" width="150" alt="Certification 1" style="margin: 0 10px;"/>
   </a>
   <a href="https://www.credly.com/badges/27ab2975-dff2-44b9-b43d-cdf3d33685a4">
-    <img src="https://images.credly.com/size/340x340/images/BADGE_IMAGE_ID/badge.png" width="150" alt="Certification 2"/>
+    <img src="./img/img2.png" width="150" alt="Certification 2" style="margin: 0 10px;"/>
   </a>
   <a href="https://www.credly.com/badges/f5cb1a83-d938-4121-864b-69a79f1745f5">
-    <img src="https://images.credly.com/size/340x340/images/BADGE_IMAGE_ID/badge.png" width="150" alt="Certification 3"/>
+    <img src="./img/img3.png" width="150" alt="Certification 3" style="margin: 0 10px;"/>
   </a>
 </p>
 
