@@ -28,7 +28,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 
-## 🚀 Key Projects:
+## 🚀 Key Projects
 
 - **[Domain‑Adapted Tokenizer & TinyLLaMA v1 QLoRA Fine‑Tuning – Tokenizer Training, Embedding Resize & QLoRA Fine‑Tuning](/)**: Trained a BPE tokenizer on a 500 M‑token biomedical corpus; resized TinyLLaMA v1’s embedding matrix to fit the new vocabulary; applied 4‑bit QLoRA and PEFT adapters; fine‑tuned for domain QA—achieving a 12% drop in perplexity and a 15% F1 lift.  
   **Tools:** *Python, Hugging Face Transformers, Tokenizers, BitsAndBytes, PEFT, PyTorch*
@@ -60,7 +60,7 @@
 - **[Airbnb UK Data Analysis](#)**: Analyzed UK Airbnb listings to surface market trends and pricing insights—guiding rental strategies.  
   **Tools:** *Python, pandas, Matplotlib*
 
-## 🏆 Certifications & Training:
+## 🏆 Certifications & Training
 
 - Neo4j Certified Professional  & Neo4j Graph Data Science — Neo4j
 - Generative AI Engineering.
@@ -69,13 +69,13 @@
 - Quality & Safety for LLM Applications — WhyLabs & DL
 - OpenTelemetry Observability Lab — Linux Foundation
 
-## 📈 Research:
+## 📈 Research
 - **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency; demoed an XAI [prototype](https://huggingface.co/spaces/Othniel74/Fraudsense-v1).
 - **Sovereign AI Governance** — Independent work exploring advanced paradigms for safe, autonomous, policy-aligned AI orchestration.
 - **Autonomous AI Security Systems** — Investigating next-generation adversarial evaluation frameworks for continuous AI robustness and resilience.
 
 
-## 👥 Let's Connect:
+## 👥 Let's Connect
 - 💼 Open to AI/ML collaborations and consulting opportunities.  
 - 📧 Contact via [email](mailto:othnielobasi@gmail.com) or [LinkedIn](). [CV](mailto:othnielobasi@gmail.com)
 
