@@ -47,17 +47,14 @@
 
  ## 🛠️ Tech Stack
 
-**Core** | **APIs & Deployment**  
+**Core** | **APIs & Deployment** | **MLOps & AI Tools** | **Data & Tools**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
-
-**MLOps & AI Tools** | **Data & Tools**  
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white) | ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)
 ![Weights&Biases](https://img.shields.io/badge/-Weights_&_Biases-FFBE00?logo=weightsandbiases&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white) | ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white)
