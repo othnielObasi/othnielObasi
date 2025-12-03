@@ -72,7 +72,6 @@
 - **Quality & Safety for LLM Applications — WhyLabs & DL**
 - **OpenTelemetry Observability Lab — Linux Foundation**
 
-
 ## 👥 Let's Connect:
 - 💼 Open to AI/ML collaborations and consulting opportunities.  
 - 📧 Contact via [email](mailto:othnielobasi@gmail.com) or [LinkedIn](). [CV](mailto:othnielobasi@gmail.com)
