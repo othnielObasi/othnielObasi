@@ -65,12 +65,12 @@
 
 ## 🏆 Certifications & Training:
 
-- **Neo4j Certified Professional  & Neo4j Graph Data Science — Neo4j**
-- **Generative AI Engineering.**
-- **Applied Data Science Lab — WorldQuant University**
-- **Red Teaming LLM Applications — Giskard AI & DL**
-- **Quality & Safety for LLM Applications — WhyLabs & DL**
-- **OpenTelemetry Observability Lab — Linux Foundation**
+- Neo4j Certified Professional  & Neo4j Graph Data Science — Neo4j
+- Generative AI Engineering.
+- Applied Data Science Lab — WorldQuant University
+- Red Teaming LLM Applications — Giskard AI & DL
+- Quality & Safety for LLM Applications — WhyLabs & DL
+- OpenTelemetry Observability Lab — Linux Foundation
 
 ## 👥 Let's Connect:
 - 💼 Open to AI/ML collaborations and consulting opportunities.  
