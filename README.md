@@ -60,22 +60,21 @@
 - **[Airbnb UK Data Analysis](#)**: Analyzed UK Airbnb listings to surface market trends and pricing insights—guiding rental strategies.  
   **Tools:** *Python, pandas, Matplotlib*
 
-## 📈 Research & Certifications:
+## 📈 Certifications:
 - **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency; demoed an XAI [prototype](https://huggingface.co/spaces/Othniel74/Fraudsense-v1).  
-- **Certifications:** Neo4j Certified Professional; Neo4j Graph Data Science; Generative AI Engineering.
-- ## 🏆 Certifications
 
-## 🏆 Certifications
-
-<p align="center">
+## 🏆 Certifications:
+- ** Neo4j Certified Professional; Neo4j Graph Data Science; Generative AI Engineering.
+  
+- <p align="center">
   <a href="https://www.credly.com/badges/27ab2975-dff2-44b9-b43d-cdf3d33685a4">
-    <img src="./img/img1.png" width="150" alt="Certification 1" style="margin: 0 10px;"/>
+    <img src="./img/img1.png" width="200" height="200" alt="Certification 1" style="object-fit: contain; margin: 0 15px;"/>
   </a>
   <a href="https://www.credly.com/badges/27ab2975-dff2-44b9-b43d-cdf3d33685a4">
-    <img src="./img/img2.png" width="150" alt="Certification 2" style="margin: 0 10px;"/>
+    <img src="./img/img2.png" width="200" height="200" alt="Certification 2" style="object-fit: contain; margin: 0 15px;"/>
   </a>
   <a href="https://www.credly.com/badges/f5cb1a83-d938-4121-864b-69a79f1745f5">
-    <img src="./img/img3.png" width="150" alt="Certification 3" style="margin: 0 10px;"/>
+    <img src="./img/img3.png" width="200" height="200" alt="Certification 3" style="object-fit: contain; margin: 0 15px;"/>
   </a>
 </p>
 
