@@ -7,7 +7,8 @@
 
  ## 🛠️ Tech Stack
  
-- **Core** | **APIs & Deployment**  
+- **Core** | **APIs & Deployment**
+  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
@@ -16,7 +17,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
 
-- **MLOps & AI Tools** | **Data & Tools** 
+- **MLOps & AI Tools** | **Data & Tools**
+  
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)
 ![Weights&Biases](https://img.shields.io/badge/-Weights_&_Biases-FFBE00?logo=weightsandbiases&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
