@@ -7,8 +7,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **GitHub Stats**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=othnielObasi&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=othnielObasi)
 
 
 ## About Me
