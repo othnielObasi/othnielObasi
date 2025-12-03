@@ -63,6 +63,14 @@
 ## 📈 Research & Certifications:
 - **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency; demoed an XAI [prototype](https://huggingface.co/spaces/Othniel74/Fraudsense-v1).  
 - **Certifications:** Neo4j Certified Professional; Neo4j Graph Data Science; Generative AI Engineering.
+- ## 🏆 Certifications
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="27ab2975-dff2-44b9-b43d-cdf3d33685a4" data-share-badge-host="https://www.credly.com"></div>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="27ab2975-dff2-44b9-b43d-cdf3d33685a4" data-share-badge-host="https://www.credly.com"></div>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f5cb1a83-d938-4121-864b-69a79f1745f5" data-share-badge-host="https://www.credly.com"></div>
+</div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## 👥 Let's Connect:
 - 💼 Open to AI/ML collaborations and consulting opportunities.  
