@@ -23,6 +23,16 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+**Languages GitHub Detects in My Repos:**
+![Python](https://img.shields.io/badge/Python-100%25-3776AB?logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+
+**Real GitHub Stats:**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=othnielObasi&layout=compact&theme=dark&hide_border=true)
 ## 📊 GitHub Stats
 
 <p align="center">
