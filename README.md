@@ -16,7 +16,36 @@
 - **[CraftWise Writing Assistant](https://craftwise-v1.streamlit.app/)**: Created a GPT‑powered writing assistant with a Gradio interface for dynamic, context‑aware content generation—improving user engagement.  
   **Tools:** *Python, OpenAI API, Gradio*
 
-  ## 🛠️ Tech Stack
+- **[Neural Search](#)**: Developed a neural search engine using SentenceTransformer embeddings and a vector database—delivering high‑accuracy product retrieval.  
+  **Tools:** *Python, NLP, SentenceTransformer, Vector Database*
+
+- **[Conversational AI with Knowledge Graph](#)**: Built a chatbot combining GPT, LangChain RAG, and Neo4j to answer precise product queries—enhancing customer support.  
+  **Tools:** *Python, GPT, LangChain, RAG, Neo4j*
+
+- **[AI Customer Review Classifier](#)**: Engineered a pipeline using Word2Vec and BERT to classify reviews; integrated Google Search API for topic inference and automated summarization—providing actionable insights.  
+  **Tools:** *Python, Word2Vec, LDA, SpaCy, NLTK, BERT, Google Search API*
+
+- **[Intelligent Coin Trading Platform](#)**: Developed a crypto‑trading system with GRU, LSTM, and BiLSTM models; integrated real‑time CoinMarketCap data—achieving high predictive accuracy.  
+  **Tools:** *Python, TensorFlow, RNN, CoinMarketCap API*
+
+- **[COVID‑19 Vaccination Trend Analysis](#)**: Automated data pipelines with cron jobs and forecasted global vaccination trends using XGBoost; delivered interactive visualizations for decision‑makers.  
+  **Tools:** *Python, pandas, Matplotlib, XGBoost*
+
+- **[CookGenie Chatbot](#)**: Designed a cooking assistant using NLP and OpenAI’s API for personalized recipes, shopping lists, and cooking advice—boosting user retention.  
+  **Tools:** *Python, NLP, OpenAI API*
+
+- **[Airbnb UK Data Analysis](#)**: Analyzed UK Airbnb listings to surface market trends and pricing insights—guiding rental strategies.  
+  **Tools:** *Python, pandas, Matplotlib*
+
+## 📈 Research & Certifications:
+- **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency; demoed an XAI [prototype](https://huggingface.co/spaces/Othniel74/Fraudsense-v1).  
+- **Certifications:** Neo4j Certified Professional; Neo4j Graph Data Science; Generative AI Engineering.
+
+## 👥 Let's Connect:
+- 💼 Open to AI/ML collaborations and consulting opportunities.  
+- 📧 Contact via [email](mailto:othnielobasi@gmail.com) or [LinkedIn](). [CV](mailto:othnielobasi@gmail.com)
+
+ ## 🛠️ Tech Stack
 
 **Core**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -56,32 +85,3 @@
 ## 🎯 Recent Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=othnielObasi&theme=github-dark&hide_border=true&area=true)
-
-- **[Neural Search](#)**: Developed a neural search engine using SentenceTransformer embeddings and a vector database—delivering high‑accuracy product retrieval.  
-  **Tools:** *Python, NLP, SentenceTransformer, Vector Database*
-
-- **[Conversational AI with Knowledge Graph](#)**: Built a chatbot combining GPT, LangChain RAG, and Neo4j to answer precise product queries—enhancing customer support.  
-  **Tools:** *Python, GPT, LangChain, RAG, Neo4j*
-
-- **[AI Customer Review Classifier](#)**: Engineered a pipeline using Word2Vec and BERT to classify reviews; integrated Google Search API for topic inference and automated summarization—providing actionable insights.  
-  **Tools:** *Python, Word2Vec, LDA, SpaCy, NLTK, BERT, Google Search API*
-
-- **[Intelligent Coin Trading Platform](#)**: Developed a crypto‑trading system with GRU, LSTM, and BiLSTM models; integrated real‑time CoinMarketCap data—achieving high predictive accuracy.  
-  **Tools:** *Python, TensorFlow, RNN, CoinMarketCap API*
-
-- **[COVID‑19 Vaccination Trend Analysis](#)**: Automated data pipelines with cron jobs and forecasted global vaccination trends using XGBoost; delivered interactive visualizations for decision‑makers.  
-  **Tools:** *Python, pandas, Matplotlib, XGBoost*
-
-- **[CookGenie Chatbot](#)**: Designed a cooking assistant using NLP and OpenAI’s API for personalized recipes, shopping lists, and cooking advice—boosting user retention.  
-  **Tools:** *Python, NLP, OpenAI API*
-
-- **[Airbnb UK Data Analysis](#)**: Analyzed UK Airbnb listings to surface market trends and pricing insights—guiding rental strategies.  
-  **Tools:** *Python, pandas, Matplotlib*
-
-## 📈 Research & Certifications:
-- **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency; demoed an XAI [prototype](https://huggingface.co/spaces/Othniel74/Fraudsense-v1).  
-- **Certifications:** Neo4j Certified Professional; Neo4j Graph Data Science; Generative AI Engineering.
-
-## 👥 Let's Connect:
-- 💼 Open to AI/ML collaborations and consulting opportunities.  
-- 📧 Contact via [email](mailto:othnielobasi@gmail.com) or [LinkedIn](). [CV](mailto:othnielobasi@gmail.com)
