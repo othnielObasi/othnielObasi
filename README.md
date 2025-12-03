@@ -60,11 +60,12 @@
 - **[Airbnb UK Data Analysis](#)**: Analyzed UK Airbnb listings to surface market trends and pricing insights—guiding rental strategies.  
   **Tools:** *Python, pandas, Matplotlib*
 
-## 📈 Certifications:
+## 📈 Research & Certifications:
+- **Neo4j Certified Professional; Neo4j Graph Data Science; Generative AI Engineering.**
 - **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency; demoed an XAI [prototype](https://huggingface.co/spaces/Othniel74/Fraudsense-v1).  
 
 ## 🏆 Certifications:
-- ** Neo4j Certified Professional; Neo4j Graph Data Science; Generative AI Engineering.
+
   
 <p align="center">
   <a href="https://www.credly.com/badges/27ab2975-dff2-44b9-b43d-cdf3d33685a4">
