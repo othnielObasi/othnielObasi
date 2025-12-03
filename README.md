@@ -63,7 +63,7 @@
 ## 📈 Research:
 - **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency; demoed an XAI [prototype](https://huggingface.co/spaces/Othniel74/Fraudsense-v1).  
 
-## 🏆 Certifications & Trainig:
+## 🏆 Certifications & Training:
 
 - **Neo4j Certified Professional  & Neo4j Graph Data Science — Neo4j**
 - **Generative AI Engineering.**
