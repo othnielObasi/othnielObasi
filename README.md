@@ -61,7 +61,9 @@
   **Tools:** *Python, pandas, Matplotlib*
 
 ## 📈 Research:
-- **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency; demoed an XAI [prototype](https://huggingface.co/spaces/Othniel74/Fraudsense-v1).  
+- **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency; demoed an XAI [prototype](https://huggingface.co/spaces/Othniel74/Fraudsense-v1).
+- **Sovereign AI Governance** — Independent work exploring advanced paradigms for safe, autonomous, policy-aligned AI orchestration.
+- **Autonomous AI Security Systems** — Investigating next-generation adversarial evaluation frameworks for continuous AI robustness and resilience.
 
 ## 🏆 Certifications & Training:
 
