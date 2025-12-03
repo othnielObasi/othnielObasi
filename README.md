@@ -3,13 +3,39 @@
 **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**GitHub Stats**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=othnielObasi&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?user=othnielObasi)
+**Tools & Platforms**
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Weights&Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Stats Card -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=othnielObasi&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othnielObasi&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=othnielObasi&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</p>
+
+## 🎯 Recent Activity
+<!-- GitHub Readme Activity Graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=othnielObasi&theme=github-dark&hide_border=true&area=true)
 
 ## About Me
 
