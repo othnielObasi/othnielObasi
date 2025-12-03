@@ -13,6 +13,7 @@
 ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
+
 ## About Me
 
 <p>👋I build transparent, scalable AI systems—specializing in model optimization (distillation & quantization), custom tokenization for domain adaptation, and knowledge‑graph–powered reasoning. I also resize model embeddings to align with bespoke vocabularies and fine‑tune lightweight LLMs for specialized domains.</p>
