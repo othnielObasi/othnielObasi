@@ -47,8 +47,6 @@
 
  ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 **Core** | **APIs & Deployment**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
