@@ -14,7 +14,7 @@
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white) 
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
 
 - **MLOps & AI Tools** | **Data & Tools** 
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)
