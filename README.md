@@ -1,3 +1,12 @@
+## About Me
+
+<p>👋I build transparent, scalable AI systems—specializing in model optimization (distillation & quantization), custom tokenization for domain adaptation, and knowledge‑graph–powered reasoning. I also resize model embeddings to align with bespoke vocabularies and fine‑tune lightweight LLMs for specialized domains.</p>
+<b></b>
+</div>
+
+
+ ## 🛠️ Tech Stack
+ 
 **Core** | **APIs & Deployment** | **MLOps & AI Tools** | **Data & Tools**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -13,12 +22,6 @@
 ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-
-## About Me
-
-<p>👋I build transparent, scalable AI systems—specializing in model optimization (distillation & quantization), custom tokenization for domain adaptation, and knowledge‑graph–powered reasoning. I also resize model embeddings to align with bespoke vocabularies and fine‑tune lightweight LLMs for specialized domains.</p>
-<b></b>
-</div>
 
 ## 🚀 Key Projects:
 
@@ -60,7 +63,7 @@
 - 💼 Open to AI/ML collaborations and consulting opportunities.  
 - 📧 Contact via [email](mailto:othnielobasi@gmail.com) or [LinkedIn](). [CV](mailto:othnielobasi@gmail.com)
 
- ## 🛠️ Tech Stack
+
 
 
 
