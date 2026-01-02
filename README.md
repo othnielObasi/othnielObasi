@@ -60,7 +60,6 @@ Across multiple projects, I’ve repeatedly delivered **LLM applications with gr
 - OpenTelemetry Observability Lab — Linux Foundation
 
 ## 📈 Research
-- **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency; demoed an XAI prototype 
 - **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency; demoed an XAI [prototype](https://huggingface.co/spaces/Othniel74/Fraudsense-v1) on Hugging Face Spaces.
 - **Sovereign AI Governance** — Independent work exploring policy-aligned, auditable, and safety-aware AI system orchestration.  
 - **Autonomous AI Security Systems** — Investigating adversarial evaluation and continuous robustness frameworks for resilient AI systems.
