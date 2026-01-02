@@ -11,7 +11,6 @@
   
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
