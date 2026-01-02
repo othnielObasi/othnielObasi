@@ -1,6 +1,8 @@
 ## About Me
 
-<p>👋I build transparent, scalable AI systems—specializing in model optimization (distillation & quantization), custom tokenization for domain adaptation, and knowledge‑graph–powered reasoning. I also resize model embeddings to align with bespoke vocabularies and fine‑tune lightweight LLMs for specialized domains.</p>
+<p>👋 I build **transparent, scalable, and production-ready AI systems**—specializing in **model optimization** (distillation & quantization), **domain-adapted tokenization**, and **knowledge-graph–powered reasoning**. I train custom tokenizers, resize model embeddings to align with bespoke vocabularies, and fine-tune lightweight LLMs for specialized domains.
+
+Across multiple projects, I’ve repeatedly delivered **LLM applications with grounding, explainability, observability, and deployment controls**, applying the same **safety- and governance-first system design principles** across search, conversational AI, and decision-support systems.</p>
 <b></b>
 </div>
 
@@ -60,14 +62,16 @@
 - OpenTelemetry Observability Lab — Linux Foundation
 
 ## 📈 Research
-- **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency; demoed an XAI [prototype](https://huggingface.co/spaces/Othniel74/Fraudsense-v1).
-- **Sovereign AI Governance** — Independent work exploring advanced paradigms for safe, autonomous, policy-aligned AI orchestration.
-- **Autonomous AI Security Systems** — Investigating next-generation adversarial evaluation frameworks for continuous AI robustness and resilience.
+- **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency; demoed an XAI prototype on Hugging Face Spaces.  
+- **Sovereign AI Governance** — Independent work exploring policy-aligned, auditable, and safety-aware AI system orchestration.  
+- **Autonomous AI Security Systems** — Investigating adversarial evaluation and continuous robustness frameworks for resilient AI systems.
 
+---
 
 ## 👥 Let's Connect
-- 💼 Open to AI/ML collaborations and consulting opportunities.  
-- 📧 Contact via [email](mailto:othnielobasi@gmail.com) or [LinkedIn](). [CV](mailto:othnielobasi@gmail.com)
+
+- 💼 Open to AI/ML collaborations and consulting opportunities  
+- 📧 Contact via [email](mailto:othnielobasi@gmail.com) or [LinkedIn]() · [CV](mailto:othnielobasi@gmail.com)
 
 
 
