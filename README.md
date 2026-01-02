@@ -29,20 +29,26 @@
 
 ## 🚀 Key Projects
 
-- **[Domain‑Adapted Tokenizer & TinyLLaMA v1 QLoRA Fine‑Tuning – Tokenizer Training, Embedding Resize & QLoRA Fine‑Tuning](/)**: Trained a BPE tokenizer on a 500 M‑token biomedical corpus; resized TinyLLaMA v1’s embedding matrix to fit the new vocabulary; applied 4‑bit QLoRA and PEFT adapters; fine‑tuned for domain QA—achieving a 12% drop in perplexity and a 15% F1 lift.  
+- **[Domain-Adapted Tokenizer & TinyLLaMA v1 QLoRA Fine-Tuning – Tokenizer Training, Embedding Resize & QLoRA Fine-Tuning](/)**:  
+  Trained a BPE tokenizer on a **500 M-token biomedical corpus**; resized TinyLLaMA v1’s embedding matrix to fit the new vocabulary; applied **4-bit QLoRA** with **PEFT adapters**; fine-tuned for domain QA—achieving a **12% drop in perplexity** and a **15% F1 lift**.  
   **Tools:** *Python, Hugging Face Transformers, Tokenizers, BitsAndBytes, PEFT, PyTorch*
 
-- **[Model Optimization Pipeline – Distillation, Quantization & Deployment](https://pytorch-mnist-classifier.streamlit.app/)**: Trained and distilled a CNN for digit recognition; exported to TorchScript and achieved >98% accuracy post‑quantization; built a FastAPI backend and Streamlit UI for real‑time inference with Supabase logging; containerized with Docker and deployed on GCP Cloud Run; tracked performance with MLflow and W&B.  
+- **[Model Optimization Pipeline – Distillation, Quantization & Deployment](https://pytorch-mnist-classifier.streamlit.app/)**:  
+  Trained and distilled a CNN for digit recognition; exported to TorchScript and achieved **>98% accuracy post-quantization**; built a FastAPI backend and Streamlit UI for real-time inference with Supabase logging; containerized with Docker and deployed on GCP Cloud Run; tracked performance with MLflow and W&B.  
   **Tools:** *TorchScript, Distillation, Quantization, FastAPI, Streamlit, Supabase, Docker, GCP, MLflow, Weights & Biases*
 
-- **[CraftWise Writing Assistant](https://craftwise-v1.streamlit.app/)**: Created a GPT‑powered writing assistant with a Gradio interface for dynamic, context‑aware content generation—improving user engagement.  
-  **Tools:** *Python, OpenAI API, Gradio*
+- **[Conversational AI with Knowledge Graph](#)**:  
+  Built a chatbot combining GPT, LangChain RAG, and Neo4j to deliver **grounded, context-aware responses**, improving reliability and traceability in conversational systems.  
+  **Tools:** *Python, GPT, LangChain, RAG, Neo4j*
 
-- **[Neural Search](#)**: Developed a neural search engine using SentenceTransformer embeddings and a vector database—delivering high‑accuracy product retrieval.  
+- **[Neural Search](#)**:  
+  Developed a neural search engine using SentenceTransformer embeddings and a vector database to deliver high-accuracy semantic retrieval.  
   **Tools:** *Python, NLP, SentenceTransformer, Vector Database*
 
-- **[Conversational AI with Knowledge Graph](#)**: Built a chatbot combining GPT, LangChain RAG, and Neo4j to answer precise product queries—enhancing customer support.  
-  **Tools:** *Python, GPT, LangChain, RAG, Neo4j*
+- **[Explainable AI (XAI) for Fraud & Decision Support](https://github.com/othnielObasi/fraudsense)**:  
+  Developed explainability workflows using **LIME, SHAP, and DiCE** to support **investigation, audit, and accountable decision-making**; demoed an interactive XAI prototype.  
+  **Tools:** *Python, LIME, SHAP, DiCE*
+
 
 ## 🏆 Certifications & Training
 
