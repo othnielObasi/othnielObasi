@@ -44,21 +44,6 @@
 - **[Conversational AI with Knowledge Graph](#)**: Built a chatbot combining GPT, LangChain RAG, and Neo4j to answer precise product queries—enhancing customer support.  
   **Tools:** *Python, GPT, LangChain, RAG, Neo4j*
 
-- **[AI Customer Review Classifier](#)**: Engineered a pipeline using Word2Vec and BERT to classify reviews; integrated Google Search API for topic inference and automated summarization—providing actionable insights.  
-  **Tools:** *Python, Word2Vec, LDA, SpaCy, NLTK, BERT, Google Search API*
-
-- **[Intelligent Coin Trading Platform](#)**: Developed a crypto‑trading system with GRU, LSTM, and BiLSTM models; integrated real‑time CoinMarketCap data—achieving high predictive accuracy.  
-  **Tools:** *Python, TensorFlow, RNN, CoinMarketCap API*
-
-- **[COVID‑19 Vaccination Trend Analysis](#)**: Automated data pipelines with cron jobs and forecasted global vaccination trends using XGBoost; delivered interactive visualizations for decision‑makers.  
-  **Tools:** *Python, pandas, Matplotlib, XGBoost*
-
-- **[CookGenie Chatbot](#)**: Designed a cooking assistant using NLP and OpenAI’s API for personalized recipes, shopping lists, and cooking advice—boosting user retention.  
-  **Tools:** *Python, NLP, OpenAI API*
-
-- **[Airbnb UK Data Analysis](#)**: Analyzed UK Airbnb listings to surface market trends and pricing insights—guiding rental strategies.  
-  **Tools:** *Python, pandas, Matplotlib*
-
 ## 🏆 Certifications & Training
 
 - Neo4j Certified Professional  & Neo4j Graph Data Science — Neo4j
