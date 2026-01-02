@@ -1,10 +1,8 @@
 ## About Me
 
-<p>👋 I build **transparent, scalable, and production-ready AI systems**—specializing in **model optimization** (distillation & quantization), **domain-adapted tokenization**, and **knowledge-graph–powered reasoning**. I train custom tokenizers, resize model embeddings to align with bespoke vocabularies, and fine-tune lightweight LLMs for specialized domains.
+👋 I build **transparent, scalable, and production-ready AI systems**—specializing in **model optimization** (distillation & quantization), **domain-adapted tokenization**, and **knowledge-graph–powered reasoning**. I train custom tokenizers, resize model embeddings to align with bespoke vocabularies, and fine-tune lightweight LLMs for specialized domains.
 
-Across multiple projects, I’ve repeatedly delivered **LLM applications with grounding, explainability, observability, and deployment controls**, applying the same **safety- and governance-first system design principles** across search, conversational AI, and decision-support systems.</p>
-<b></b>
-</div>
+Across multiple projects, I’ve repeatedly delivered **LLM applications with grounding, explainability, observability, and deployment controls**, applying the same **safety- and governance-first system design principles** across search, conversational AI, and decision-support systems.
 
 
  ## 🛠️ Tech Stack
