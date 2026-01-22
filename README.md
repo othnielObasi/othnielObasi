@@ -7,7 +7,7 @@ My work includes training custom tokenizers, resizing model embeddings to align 
 Across multiple projects, I’ve delivered **LLM systems with grounding, explainability, observability, and deployment controls**, applying consistent **safety- and governance-first system design principles** across search, conversational AI, and decision-support systems.
 
 
-![Othniel Obasi's Github Stats](https://github-readme-stats.vercel.app/api?username=othnielObasi&show_icons=true&theme=dracula)  &nbsp; &nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=othnielObasi&theme=dracula&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+![Othniel Obasi's Github Stats](https://github-readme-stats.vercel.app/api?username=othnielObasi&show_icons=true&theme=dracula)  &nbsp; &nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=othnielObasi&theme=dracula&exclude_repo=repo1,repo2&langs_count=10)
 
 
  ## 🛠️ Tech Stack
