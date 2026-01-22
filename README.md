@@ -48,7 +48,7 @@ Across multiple projects, I’ve delivered **LLM systems with grounding, explain
   **Tools:** *Python, NLP, SentenceTransformer, Vector Database*
 
 - **[Explainable AI (XAI) for Fraud & Decision Support](https://github.com/othnielObasi/fraudsense)**:  
-  Developed explainability workflows using **LIME, SHAP, and DiCE** to support **investigation, audit, and accountable decision-making**; demoed an interactive XAI prototype.  
+  Developed explainability workflows using **LIME, SHAP, and DiCE** to support **investigation, audit, and accountable decision-making**.  
   **Tools:** *Python, LIME, SHAP, DiCE*
 
 
