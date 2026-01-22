@@ -51,6 +51,12 @@ Across multiple projects, I’ve delivered **LLM systems with grounding, explain
   Developed explainability workflows using **LIME, SHAP, and DiCE** to support **investigation, audit, and accountable decision-making**; demoed an interactive XAI prototype.  
   **Tools:** *Python, LIME, SHAP, DiCE*
 
+## 🏆 Hackathons
+
+[![lablab.ai](https://img.shields.io/badge/Platform-lablab.ai-FF6154?style=for-the-badge)](https://lablab.ai/ai-hackathons/autogpt-arena-hacks/agent-framework-as-a-service)
+[![AutoGPT Arena](https://img.shields.io/badge/Hackathon-AutoGPT_Arena_Hacks-blueviolet?style=for-the-badge&logo=openai)](https://lablab.ai/ai-hackathons/autogpt-arena-hacks/agent-framework-as-a-service)
+[![Role](https://img.shields.io/badge/Role-Product_Manager-success?style=for-the-badge)](https://lablab.ai/ai-hackathons/autogpt-arena-hacks/agent-framework-as-a-service)
+
 
 ## 🏆 Certifications & Training
 
