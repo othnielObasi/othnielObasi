@@ -62,7 +62,8 @@ Across multiple projects, I’ve delivered **LLM systems with grounding, explain
 - OpenTelemetry Observability Lab — Linux Foundation
 
 ## 📈 Research
-- **[Explainable AI](https://github.com/othnielObasi/fraudsense)**: Developed tools with LIME, SHAP, and DiCE to enhance AI transparency; demoed an XAI [prototype](https://huggingface.co/spaces/Othniel74/Fraudsense-v1) on Hugging Face Spaces.
+- **[Explainable AI — FraudSenseXAI](https://github.com/othnielObasi/fraudsense)**: Designed and deployed a complete explainability platform for fraud detection, featuring multi-method XAI (LIME, Kernel SHAP, Tree SHAP, ELI5, DiCE), feature-interaction graphs with Louvain communities, and counterfactual narratives & visualisations. Served explanations and predictions via a Heroku-deployed Flask API with GitHub Actions CI/CD, and published an interactive prototype on Hugging Face Spaces.
+ 
 - **Sovereign AI Governance** — Independent work exploring policy-aligned, auditable, and safety-aware AI system orchestration.  
 
 ---
