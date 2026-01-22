@@ -47,7 +47,7 @@ Across multiple projects, I’ve delivered **LLM systems with grounding, explain
   Developed a neural search engine using SentenceTransformer embeddings and a vector database to deliver high-accuracy semantic retrieval.  
   **Tools:** *Python, NLP, SentenceTransformer, Vector Database*
 
-- **[Explainable AI (XAI) for Fraud & Decision Support](https://github.com/othnielObasi/fraudsense)**:  
+- **[Explainable AI (XAI) for Fraud & Decision Support]()**:  
   Developed explainability workflows using **LIME, SHAP, and DiCE** to support **investigation, audit, and accountable decision-making**.  
   **Tools:** *Python, LIME, SHAP, DiCE*
 
