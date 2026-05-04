@@ -1,6 +1,6 @@
 ## About Me
 
-I build AI systems for **trusted autonomy** — systems where LLMs, agents, models, tools, data, and policies work together in real workflows with stronger **evaluation, explainability, observability, and governance**.
+I build AI systems for **trusted autonomy** — systems where LLMs, agents, models, tools, data, and policies work together in real workflows with stronger **safety, evaluation, explainability, observability, and governance**.
 
 My work focuses on the **execution layer of AI**: what happens after a model generates an output, when an AI system has to retrieve information, call tools, support decisions, trigger workflows, or operate under risk.
 
