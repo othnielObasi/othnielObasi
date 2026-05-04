@@ -1,13 +1,15 @@
 ## About Me
 
-I build **transparent, scalable AI systems** focused on **efficiency and governance**, specializing in **model optimization** (distillation & quantization), **domain-adapted tokenization**, and **knowledge-graph–powered reasoning**.
+I build AI systems for **trusted autonomy** — systems where LLMs, agents, models, tools, data, and policies work together in real workflows with stronger **evaluation, explainability, observability, and governance**.
 
-My work includes training custom tokenizers, resizing model embeddings to align with bespoke vocabularies, and fine-tuning lightweight LLMs for specialized domains.
+My work focuses on the **execution layer of AI**: what happens after a model generates an output, when an AI system has to retrieve information, call tools, support decisions, trigger workflows, or operate under risk.
 
-Across multiple projects, I’ve delivered **LLM systems with grounding, explainability, observability, and deployment controls**, applying consistent **safety- and governance-first system design principles** across search, conversational AI, and decision-support systems.
+Across my projects, I combine **hands-on AI engineering** with **product thinking and governance-first system design** — from tokenizer adaptation, QLoRA fine-tuning, distillation, and quantization to agentic workflows, memory-aware traces, audit logs, risk scoring, decision support, and deployed AI products.
+
+I am especially interested in building AI systems that move beyond prototypes into **real product, operational, and high-trust environments**.
 
 
- ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
  
 - **Core** | **APIs & Deployment**
   
@@ -29,52 +31,76 @@ Across multiple projects, I’ve delivered **LLM systems with grounding, explain
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 
-## 🚀 Key Projects
+## 🚀 Selected Work
 
-- **[Domain-Adapted Tokenizer & TinyLLaMA v1 QLoRA Fine-Tuning – Tokenizer Training, Embedding Resize & QLoRA Fine-Tuning](/)**:  
-  Trained a BPE tokenizer on a **500 M-token biomedical corpus**; resized TinyLLaMA v1’s embedding matrix to fit the new vocabulary; applied **4-bit QLoRA** with **PEFT adapters**; fine-tuned for domain QA—achieving a **12% drop in perplexity** and a **15% F1 lift**.  
-  **Tools:** *Python, Hugging Face Transformers, Tokenizers, BitsAndBytes, PEFT, PyTorch*
+### Agentic AI & Runtime Governance
 
-- **[Model Optimization Pipeline – Distillation, Quantization & Deployment](https://pytorch-mnist-classifier.streamlit.app/)**:  
-  Trained and distilled a CNN for digit recognition; exported to TorchScript and achieved **>98% accuracy post-quantization**; built a FastAPI backend and Streamlit UI for real-time inference with Supabase logging; containerized with Docker and deployed on GCP Cloud Run; tracked performance with MLflow and W&B.  
-  **Tools:** *TorchScript, Distillation, Quantization, FastAPI, Streamlit, Supabase, Docker, GCP, MLflow, Weights & Biases*
+Built systems that help autonomous AI workflows act safely, remember context, improve from past runs, and remain auditable before, during, and after execution.
 
-- **[Conversational AI with Knowledge Graph](#)**:  
-  Built a chatbot combining GPT, LangChain RAG, and Neo4j to deliver **grounded, context-aware responses**, improving reliability and traceability in conversational systems.  
-  **Tools:** *Python, GPT, LangChain, RAG, Neo4j*
+Representative work includes **runtime action evaluation, tool-use controls, risk scoring, memory-aware agent traces, checkpoints, prompt-injection checks, PII detection, audit logs, governance receipts, and long-horizon workflow learning**.
 
-- **[Neural Search](#)**:  
-  Developed a neural search engine using SentenceTransformer embeddings and a vector database to deliver high-accuracy semantic retrieval.  
-  **Tools:** *Python, NLP, SentenceTransformer, Vector Database*
+**Projects:** AIRG · LaunchGuard · TraceMemory · Kairos · Actura  
+**Focus:** *Agentic AI, runtime governance, auditability, tool-use safety, agent memory, autonomous workflow control*
 
-- **[Explainable AI (XAI) for Fraud & Decision Support]()**:  
-  Developed explainability workflows using **LIME, SHAP, and DiCE** to support **investigation, audit, and accountable decision-making**.  
-  **Tools:** *Python, LIME, SHAP, DiCE*
+
+### LLMs, RAG & Knowledge Systems
+
+Built retrieval-augmented and knowledge-graph-powered AI systems for grounded conversational AI, legal decision support, semantic search, and enterprise-style knowledge retrieval.
+
+Representative work includes **LangChain-based RAG, Neo4j-backed reasoning, document retrieval, neural search, contextual grounding, and traceable response generation**.
+
+**Projects:** Conversational AI with Knowledge Graph · Neural Search · LexSynergy AI  
+**Focus:** *RAG, knowledge graphs, semantic search, conversational AI, legal AI, traceable reasoning*
+
+
+### Model Optimization & Fine-Tuning
+
+Worked on efficient model adaptation and deployment pipelines, including **tokenizer training, embedding resizing, QLoRA fine-tuning, distillation, quantization, TorchScript export, and production inference**.
+
+**Selected examples:**
+
+- **Domain-Adapted Tokenizer & TinyLLaMA QLoRA** — trained a BPE tokenizer on a **500M-token biomedical corpus**, resized TinyLLaMA embeddings, and applied **4-bit QLoRA** with PEFT adapters for domain-specific QA, achieving a **12% perplexity drop** and **15% F1 lift**.
+
+- **Model Optimization & Inference Deployment Pipeline** — built an end-to-end optimization and deployment pipeline for compact neural inference, covering model training, distillation, post-training quantization, TorchScript export, FastAPI serving, Streamlit UI, Supabase inference logging, Docker packaging, GCP Cloud Run deployment, and experiment tracking with MLflow and W&B. Achieved **>98% accuracy after quantization** while preserving a production-style serving and monitoring workflow.
+
+**Focus:** *Tokenizer training, QLoRA, model optimization, quantization, distillation, MLOps*
+
+
+### Explainable AI & Decision Support
+
+Designed explainability and decision-support workflows for fraud detection, legal AI, financial risk, and accountable AI systems.
+
+Representative work includes **SHAP, LIME, DiCE, ELI5, counterfactual explanations, feature-interaction graphs, and audit-focused model interpretation**.
+
+**Projects:** FraudSenseXAI · Legal Decision Support · Financial AI Systems  
+**Focus:** *Explainable AI, fraud detection, decision support, auditability, regulated workflows*
 
 
 ## 🏆 Certifications & Training
 
-- Neo4j Certified Professional  & Neo4j Graph Data Science — Neo4j
-- Generative AI Engineering.
+- Neo4j Certified Professional & Neo4j Graph Data Science — Neo4j
+- Generative AI Engineering
 - Applied Data Science Lab — WorldQuant University
-- Red Teaming LLM Applications — Giskard AI & DL
-- Quality & Safety for LLM Applications — WhyLabs & DL
+- Red Teaming LLM Applications — Giskard AI & DeepLearning.AI
+- Quality & Safety for LLM Applications — WhyLabs & DeepLearning.AI
 - OpenTelemetry Observability Lab — Linux Foundation
 
-## 📈 Research
-- **[Explainable AI — FraudSenseXAI](https://github.com/othnielObasi/fraudsense)**: Designed and deployed a complete explainability platform for fraud detection, featuring multi-method XAI (LIME, Kernel SHAP, Tree SHAP, ELI5, DiCE), feature-interaction graphs with Louvain communities, and counterfactual narratives & visualisations. Served explanations and predictions via a Heroku-deployed Flask API with GitHub Actions CI/CD, and published an interactive prototype on Hugging Face Spaces.
- 
-- **Sovereign AI Governance** — Independent work exploring policy-aligned, auditable, and safety-aware AI system orchestration.  
+
+## 📈 Research & Product Interests
+
+- **[Explainable AI — FraudSenseXAI](https://github.com/othnielObasi/fraudsense)**  
+  Designed and deployed a complete explainability platform for fraud detection, featuring multi-method XAI with **LIME, Kernel SHAP, Tree SHAP, ELI5, and DiCE**, feature-interaction graphs with Louvain communities, and counterfactual narratives and visualisations. Served explanations and predictions via a Heroku-deployed Flask API with GitHub Actions CI/CD, and published an interactive prototype on Hugging Face Spaces.
+
+- **Sovereign AI Governance**  
+  Independent work exploring **policy-aligned, auditable, and safety-aware AI system orchestration**, with a focus on runtime controls, accountable automation, and governance-first AI systems.
+
+- **Current interests**  
+  Trusted autonomy, agentic AI governance, LLM evaluation, runtime control, AI auditability, agent memory, RAG, knowledge-graph reasoning, model optimization, explainable AI, and high-trust AI product development.
+
 
 ---
 
 ## 👥 Let's Connect
 
-- 💼 Open to AI/ML collaborations and consulting opportunities  
+- 💼 Open to AI engineering, AI product, LLM evaluation, agentic systems, AI governance, and applied AI collaborations  
 - 📧 Contact via [email](mailto:othnielobasi@gmail.com) or [LinkedIn]() · [CV](mailto:othnielobasi@gmail.com)
-
-
-
-
-
-
