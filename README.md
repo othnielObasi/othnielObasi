@@ -44,7 +44,7 @@ Worked on efficient model adaptation and deployment pipelines, including tokeniz
 
 **Project highlights:**
 
-- **Domain-Adapted Tokenizer & TinyLLaMA QLoRA** — trained a BPE tokenizer on a **500M-token biomedical corpus**, resized TinyLLaMA embeddings, and applied **4-bit QLoRA** with PEFT adapters for domain-specific QA, achieving a **12% perplexity drop** and **15% F1 lift**.
+- **Domain-Adapted Tokenizer & TinyLLaMA QLoRA** — trained a BPE tokenizer on a biomedical corpus, resized TinyLLaMA embeddings, and applied 4-bit QLoRA with PEFT adapters for domain-specific QA, evaluating the adapted model with perplexity and task-level QA metrics.
 
 - **Model Optimization & Inference Deployment Pipeline** — built an end-to-end optimization and deployment pipeline for compact neural inference, covering training, distillation, quantization, TorchScript export, FastAPI serving, Supabase logging, Docker packaging, GCP Cloud Run deployment, and MLflow/W&B tracking. Achieved **>98% accuracy after quantization** while preserving a production-style serving and monitoring workflow.
 
