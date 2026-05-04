@@ -73,7 +73,7 @@ Designed explainability and decision-support workflows for fraud detection, lega
 
 ## 📈 Current Focus
 
-Trusted autonomy · AI safety · Agentic governance · LLM evaluation · Runtime control · AI auditability · Agent memory · RAG · Knowledge graphs · Model optimization · Explainable AI · High-trust AI products
+Trusted autonomy · AI safety · Agentic governance · LLM evaluation · Runtime control · AI auditability · Agent memory · Context-Aware RAG · Knowledge graphs · Model optimization · Explainable AI · High-trust AI products
 
 
 ## 👥 Let's Connect
